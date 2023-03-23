@@ -1,4 +1,5 @@
 > Curso: Data Science de Fundación Start Coding IA. Autor: María Sofía Fregona
+> Estado: Finalizado
 
 # Práctica integradora final <p>
 
@@ -12,4 +13,4 @@ Realizar un análisis exploratorio de los datos para obtener información de int
 `tidyverse` `sf` `lubridate` `ggmap` `leaps`
 
 ### *   Conocimientos aplicados: <p>
-`EDA` `Data cleaning` `Data visualization` `Machine Learning` `Regression` `BSS`
+`EDA` `Data cleaning` `Data visualization` `Machine Learning` `Regression` `BSS` `Reporting`
