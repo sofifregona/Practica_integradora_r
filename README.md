@@ -1,4 +1,4 @@
-> Curso: Data Science de Fundación Start Coding IA. Autor: María Sofía Fregona
+> Curso: Data Science de Fundación Start Coding IA. Autor: María Sofía Fregona <p>
 > Estado: Finalizado
 
 # Práctica integradora final <p>
